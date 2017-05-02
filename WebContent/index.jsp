@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>Bem vindo ao sistema de tarefas.</h1>
+<a href="http://localhost:8080/formulario.jsp">Cadastrar tarefa</a>
 </body>
 </html>
